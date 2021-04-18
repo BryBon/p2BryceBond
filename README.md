@@ -32,7 +32,7 @@ dashboard found here - https://www.youtube.com/watch?v=7Ar7KMAv6FY
 
 ![Image of car running](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Explorer%20running.png)
 
-This dash is for a 2019 ford explorer. This dash has two lcd screens to the side of the speedometer. The one the left shows several screens for different features, with the main one showing the distance to empty of the tank as well as a visual representation of the amount of fuel in the tank. This screen can also be used to show fuel economy, trip 1 and 2 information, driver assist and other settings. The right lcd shows the navigation panel, as well the option to see entertainment settings and the phone connection. This screen also shows outside temperature, the compass direction, and the current time. Both screens are interacted with by using a directional pad in the steering wheel, one for the for each side. The speedometer shows both MPH and KM/h. Below this the current driving mode is shown. Located below the left lcd screen are the lights for the front and back fog lamps and ABS. The speedometer had the directional blinker lights and the light for high beams. The right side has the lights for parking brake, an electric parking brake fault light, airbag, seatbelt, and traction control light at the bottom with tire pressure warning light at the top. The brightness can be changed from the setting menu.
+This dash is for a 2019 ford explorer. This dash has two lcd screens to the side of the speedometer. The one the left shows several screens for different features, with the main one showing the distance to empty of the tank as well as a visual representation of the amount of fuel in the tank. This screen can also be used to show fuel economy, trip 1 and 2 information, driver assist and other settings. The right lcd shows the navigation panel, as well the option to see entertainment settings and the phone connection. This screen also shows outside temperature, the compass direction, and the current time. Both screens are interacted with by using a directional pad in the steering wheel, one for the for each side and voice controls. The speedometer shows both MPH and KM/h. Below this the current driving mode is shown. Located below the left lcd screen are the lights for the front and back fog lamps and ABS. The speedometer had the directional blinker lights and the light for high beams. The right side has the lights for parking brake, an electric parking brake fault light, airbag, seatbelt, and traction control light at the bottom with tire pressure warning light at the top. The brightness can be changed from the setting menu.
 
 Pros
 - There are a lot of option that allow the user to customize their car to how they desire
@@ -81,7 +81,7 @@ Picture is from here -https://knowhow.napaonline.com/know-your-dashboard-lights-
 
 ![Iamge from my truck running](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Truck%20Running.jpg)
 
-  This dashboard has two main dial section seperated by an lcd panel and four minor dials. The far left dial is the tachometer. Right dial is the speedometer. The top four dial in order are oil pressure, coolant tempature, fuel level, and transmission tempature. Under the tachometer, there are the lights for the abs, the parking brake, the aribag indactor, and low tire pressure. The lights under the speedometer are the seatbelt warning, the check engine light, traction control, and traction control off. The center led panel has the ability to show fuel effencey and miles until empty, engine tempature, the pitch and yaw of the vehicle as well as what drive trains are doing work, and a limited amount of settings. To the upper left and right of the lcd panel are where the blinker lights are shown. Below the panel is where the  drive mode is shown. the brightness of the lights can be changed by a dial and button to the left of the dashboard. the lcd panel is controlled by a directional pad on the steering wheel.
+  This dashboard has two main dial section seperated by an lcd panel and four minor dials. The far left dial is the tachometer. Right dial is the speedometer. The top four dial in order are oil pressure, coolant tempature, fuel level, and transmission tempature. Under the tachometer, there are the lights for the abs, the parking brake, the aribag indactor, and low tire pressure. The lights under the speedometer are the seatbelt warning, the check engine light, traction control, and traction control off. The center led panel has the ability to show fuel effencey and miles until empty, engine tempature, the pitch and roll of the vehicle as well as what drive trains are doing work, and a limited amount of settings. To the upper left and right of the lcd panel are where the blinker lights are shown. Below the panel is where the  drive mode is shown. the brightness of the lights can be changed by a dial and button to the left of the dashboard. The lcd panel is controlled by a directional pad on the steering wheel.
   
  Pros
  - Shows the engine temp as a dial and on the lcd panel
@@ -98,3 +98,41 @@ Cons
 Picture is of my trucks dashboard taken by me
 
 ### Tesla Dashboard
+
+![Image of Tesla Dash](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Tesla%20.png)
+
+This dashboard is entireley digital. This allows the user to customize their dashboard experience as much as they want . This has the side effect of poetentially causeing the user to not know how to properly operate the car. The daqshboard is controled by the steering wheel buttons, voice control, or via a touch screen. 
+
+Pros
+- the users can customize thir experience as much as they want
+- can allow for more indepth information to be avaiable at a moments notice
+
+Cons
+- touch screen controls can be hard to hit and could cause distractions to the users
+- since the screen is entirely digital, if there is either software or techinal faults, the screen might not turn on
+- the amount of options and controls can be confusing for new users
+
+
+## Personal Features
+
+### Common uses
+- Speedometer
+- Tachometer
+- Fuel gauge
+- Fuel economy panel
+- Warning lights
+- Driving mode indacater
+- Engine tempature panel
+
+### Uncommon uses
+- Pith and yaw representatoin
+- trip A and B miliage
+- Settings
+- Navigation
+- coolant and transmission tempature dials
+- Oil pressure dial
+- trailer control panel
+
+## Improvements
+
+I will be slightly redesigning the dshboard from my truck. Out of the five that were covered, this one fits my idea of a perfect dashboard the most. I will be keeping the speedometer, tachometer and lcd panel in roughly the same places. For the top four dials, I am going to remove the transmission tempature dial and only have three dials; one for oil pressure, one for fuel, and one for coolant tempature. I am also going to move the symbols for those dials above the dial so the image is always shown. Since this dashboard does not include warnings for the top four dials, I am going to include one. To do this the symbols above the dials in my design will light up when those warnings are needed. For the digital panels, I do not want to change much. I do not use most of the panels, but I can see where they could be useful to others. I am going to include the compass and outside temp on the bottom of the interface. the top panel displays the gauge information, but only the engine temp. I will move this into the truck app section. I am also going to include a panel for navigation that will be intereacted with using voice commands.
