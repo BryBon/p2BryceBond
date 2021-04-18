@@ -30,7 +30,7 @@ dashboard found here - https://www.youtube.com/watch?v=7Ar7KMAv6FY
 2019 Ford Explorer
 ![Image of Explorer on startup](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Ford%20Explorer.png)
 
-![Image of car running]()
+![Image of car running](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Explorer%20running.png)
 
 This dash is for a 2019 ford explorer. This dash has two lcd screens to the side of the speedometer. The one one the left shows several screens for different features, with the main one showing the distance to empty of the tank as well as a visual representation of the amount of fuel in the tank. This screen can also be used to show fuel economy, trip 1 and 2 information, driver assist and other settings. The right lcd shows the navigation panel, as well the option to see entertainment settings and the phone connetion. This screen also shows outside tempature, the compass direction and the current time. Both screens are interacted with by using a directional pad in the steering wheel, one for the for each side. The speedometer shows both MPH and KM/h. Below this the current driving mode is shown. Located below the left lcd screen are the lights for the the front and back fog lamps and ABS. The speedometer had the directional blinker lights and the light for high beams. The right side has the lights for parking break, an electric parking break fault light, airbag, seatbelt, and check engine light.
 
