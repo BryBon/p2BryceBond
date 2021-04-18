@@ -86,11 +86,15 @@ Picture is from here -https://knowhow.napaonline.com/know-your-dashboard-lights-
  Pros
  - Shows the engine temp as a dial and on the lcd panel
  - fuel dial is near the top of the dash, letting the user glance at the dial and maintain more attention on the road 
+ - is simple enough to use for new users while also providing more in depth features for more complicated tasks
 
 Cons
 - missing warning light for things like low oil pressure for those that do not know what the dials mean
-- the two dials for coolant tempature and transmission tempature 
+- the two dials for coolant tempature and transmission tempature
+- the images under the top dials could be moved so they do not get covered when the dial is striaght down 
+- the tachometer shold have an indacator for when the RPM of the engine is too high
+- compass and outdoor tempature is on the center consle
 
 Picture is of my trucks dashboard taken by me
 
-###
+### Tesla Dashboard
