@@ -77,7 +77,9 @@ Picture is from here -https://knowhow.napaonline.com/know-your-dashboard-lights-
 
 ### 2011 Ford F150
 
-![Image from my truck]()
+![Image from my truck idle](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Truck%20Idle.jpg)
+
+![Iamge from my truck running](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Truck%20Running.jpg)
 
   This dashboard has two main dial section seperated by an lcd panel and four minor dials. The far left dial is the tachometer. Right dial is the speedometer. The top four dial in order are oil pressure, coolant tempature, fuel level, and transmission tempature. Under the tachometer, there are the lights for the abs, the parking brake, the aribag indactor, and low tire pressure. The lights under the speedometer are the seatbelt warning, the check engine light, traction control, and traction control off. The center led panel has the ability to show fuel effencey and miles until empty, engine tempature, the pitch and yaw of the vehicle as well as what drive trains are doing work, and a limited amount of settings. To the upper left and right of the lcd panel are where the blinker lights are shown. Below the panel is where the  drive mode is shown. the brightness of the lights can be changed by a dial and button to the left of the dashboard. the lcd panel is controlled by a directional pad on the steering wheel.
   
