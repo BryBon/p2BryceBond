@@ -1,4 +1,5 @@
 # p2BryceBond
+
 Website - https://brybon.github.io/p2BryceBond/
 
 ## Car Dashboards
@@ -59,7 +60,7 @@ Second picture is from here - https://www.youtube.com/watch?v=2SOMh81G7uA
 
 ![Image from Unknown Car](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Unknown%20car.png)
 
-  This car has three main dial sections. The far left dial section has a dial for fuel level, the engine tempature, and an indactor of the driving mode. The middle section has the speedometer, a display of the total miles and the miles on the trip, and a display for the outside temp. The far right dial contains the tachometer and most of the cars warning lights. The dark black sections most likely contain the light used in operation of the car, like the blinkers signal lights. There is a button on the bottom to reset the trip milage.
+  This car has three main dial sections. The far-left dial section has a dial for fuel level, the engine temperature, and an indicator of the driving mode. The middle section has the speedometer, a display of the total miles and the miles on the trip, and a display for the outside temp. The far-right dial contains the tachometer and most of the cars warning lights. The dark black sections most likely contain the light used in operation of the car, like the blinkers signal lights. There is a button on the bottom to reset the trip milage.
   
  Pros
  - Very simple to use
@@ -68,8 +69,8 @@ Second picture is from here - https://www.youtube.com/watch?v=2SOMh81G7uA
  - no lcds might help users driving at night
 
 Cons
-- very simple, missing most modern day features like gas miliage
-- the driving mode indacter should be moved to a more central spot
+- very simple, missing most modern-day features like gas mileage
+- the driving mode indicator should be moved to a more central spot
 - there does not seem to be a way to change the brightness of the backlighting 
 
 Picture is from here -https://knowhow.napaonline.com/know-your-dashboard-lights-and-gauges-infographic/
@@ -79,38 +80,40 @@ Picture is from here -https://knowhow.napaonline.com/know-your-dashboard-lights-
 
 ![Image from my truck idle](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Truck%20Idle.jpg)
 
-![Iamge from my truck running](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Truck%20Running.jpg)
+![Image from my truck running](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Truck%20Running.jpg)
 
-  This dashboard has two main dial section seperated by an lcd panel and four minor dials. The far left dial is the tachometer. Right dial is the speedometer. The top four dial in order are oil pressure, coolant tempature, fuel level, and transmission tempature. Under the tachometer, there are the lights for the abs, the parking brake, the aribag indactor, and low tire pressure. The lights under the speedometer are the seatbelt warning, the check engine light, traction control, and traction control off. The center led panel has the ability to show fuel effencey and miles until empty, engine tempature, the pitch and roll of the vehicle as well as what drive trains are doing work, and a limited amount of settings. To the upper left and right of the lcd panel are where the blinker lights are shown. Below the panel is where the  drive mode is shown. the brightness of the lights can be changed by a dial and button to the left of the dashboard. The lcd panel is controlled by a directional pad on the steering wheel.
+  This dashboard has two main dial section separated by a lcd panel and four minor dials. The far-left dial is the tachometer. Right dial is the speedometer. The top four dial in order are oil pressure, coolant temperature, fuel level, and transmission temperature. Under the tachometer, there are the lights for the abs, the parking brake, the airbag indicator, and low tire pressure. The lights under the speedometer are the seatbelt warning, the check engine light, traction control, and traction control off. The center led panel has the ability to show fuel efficiency and miles until empty, engine temperature, the pitch and roll of the vehicle as well as what drive trains are doing work, and a limited number of settings. To the upper left and right of the lcd panel are where the blinker lights are shown. Below the panel is where the drive mode is shown. the brightness of the lights can be changed by a dial and button to the left of the dashboard. The lcd panel is controlled by a directional pad on the steering wheel.
   
  Pros
  - Shows the engine temp as a dial and on the lcd panel
  - fuel dial is near the top of the dash, letting the user glance at the dial and maintain more attention on the road 
- - is simple enough to use for new users while also providing more in depth features for more complicated tasks
+ - is simple enough to use for new users while also providing more in-depth features for more complicated tasks
 
 Cons
 - missing warning light for things like low oil pressure for those that do not know what the dials mean
-- the two dials for coolant tempature and transmission tempature
-- the images under the top dials could be moved so they do not get covered when the dial is striaght down 
-- the tachometer shold have an indacator for when the RPM of the engine is too high
-- compass and outdoor tempature is on the center consle
+- the two dials for coolant temperature and transmission temperature
+- the images under the top dials could be moved so they do not get covered when the dial is straight down 
+- the tachometer should have an indicator for when the RPM of the engine is too high
+- compass and outdoor temperature is on the center console
 
-Picture is of my trucks dashboard taken by me
+Picture is of my truck’s dashboard taken by me.
 
 ### Tesla Dashboard
 
 ![Image of Tesla Dash](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Tesla%20.png)
 
-This dashboard is entireley digital. This allows the user to customize their dashboard experience as much as they want . This has the side effect of poetentially causeing the user to not know how to properly operate the car. The daqshboard is controled by the steering wheel buttons, voice control, or via a touch screen. 
+This dashboard is entirely digital. This allows the user to customize their dashboard experience as much as they want . This has the side effect of potentially causing the user to not know how to properly operate the car. The dashboard is controlled by the steering wheel buttons, voice control, or via a touch screen. 
 
 Pros
-- the users can customize thir experience as much as they want
-- can allow for more indepth information to be avaiable at a moments notice
+- the users can customize their experience as much as they want
+- can allow for more in-depth information to be available at a moment’s notice
 
 Cons
 - touch screen controls can be hard to hit and could cause distractions to the users
-- since the screen is entirely digital, if there is either software or techinal faults, the screen might not turn on
-- the amount of options and controls can be confusing for new users
+- since the screen is entirely digital, if there is either software or technical faults, the screen might not turn on
+- the number of options and controls can be confusing for new users
+
+Image found here - https://www.autoguide.com/auto-news/2012/06/tesla-model-s-to-feature-new-digital-dashboard.html
 
 
 ## Personal Features
@@ -121,21 +124,21 @@ Cons
 - Fuel gauge
 - Fuel economy panel
 - Warning lights
-- Driving mode indacater
-- Engine tempature panel
+- Driving mode indicator
+- Engine temperature panel
 
 ### Uncommon uses
-- Pith and yaw representatoin
-- trip A and B miliage
+- Pith and yaw representation
+- trip A and B mileage
 - Settings
 - Navigation
-- coolant and transmission tempature dials
+- coolant and transmission temperature dials
 - Oil pressure dial
 - trailer control panel
 
 ## Improvements
 
-I will be slightly redesigning the dshboard from my truck. Out of the five that were covered, this one fits my idea of a perfect dashboard the most. I will be keeping the speedometer, tachometer and lcd panel in roughly the same places. For the top four dials, I am going to remove the transmission tempature dial and only have three dials; one for oil pressure, one for fuel, and one for coolant tempature. I am also going to move the symbols for those dials above the dial so the image is always shown. Since this dashboard does not include warnings for the top four dials, I am going to include one. To do this the symbols above the dials in my design will light up when those warnings are needed. For the digital panels, I do not want to change much. I do not use most of the panels, but I can see where they could be useful to others. I am going to include the compass and outside temp on the bottom of the interface. the top panel displays the gauge information, but only the engine temp. I will move this into the truck app section. I am also going to include a panel for navigation that will be intereacted with using voice commands.
+I will be slightly redesigning the dashboard from my truck. Out of the five that were covered, this one fits my idea of a perfect dashboard the most. I will be keeping the speedometer, tachometer and lcd panel in roughly the same places. For the top four dials, I am going to remove the transmission temperature dial and only have three dials: one for oil pressure, one for fuel, and one for coolant temperature. I am also going to move the symbols for those dials above the dial, so the image is always shown. Since this dashboard does not include warnings for the top four dials, I am going to include one. To do this the symbols above the dials in my design will light up when those warnings are needed. For the digital panels, I do not want to change much. I do not use most of the panels, but I can see where they could be useful to others. I am going to include the compass and outside temp on the bottom of the interface. the top panel displays the gauge information, but only the engine temp. I will move this into the truck app section. I am also going to include a panel for navigation that will be interacted with using voice commands.
 
 ![Image of Main Dash](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Main%20Dash.jpg)
 
