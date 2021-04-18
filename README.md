@@ -3,7 +3,8 @@ https://brybon.github.io/p2BryceBond/
 
 #Car Dashboards
 
-Car%20.png
+![Image of Honda CRV](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Car%20.png)
+![Image of Honda CRV with all lights]
 
 This dashboard for a 2017 Honda CRV has its speedometer on the right-hand side, showing the speed in both km/p in the larger circle and mph in the smaller circle. The parking brake symbol can be found at the bottom of this side. Not lit is oil change light, the airbag light, the battery light, and the car security light. The tachometer is on the left and has the check engine light, the engine overheating light, the abs light, and a steering wheel lock light. On the bottom you can see the fuel level as well as the total miles on the engine and the total distance since the trip was reset. The dashboard shows whether the car is in park, reverse, neutral, or a stage of drive. In between the two dials. Below this there are lights for traction control, seatbelt, and AT, which shows that the car is in automatic transmission. 
 
