@@ -136,3 +136,7 @@ Cons
 ## Improvements
 
 I will be slightly redesigning the dshboard from my truck. Out of the five that were covered, this one fits my idea of a perfect dashboard the most. I will be keeping the speedometer, tachometer and lcd panel in roughly the same places. For the top four dials, I am going to remove the transmission tempature dial and only have three dials; one for oil pressure, one for fuel, and one for coolant tempature. I am also going to move the symbols for those dials above the dial so the image is always shown. Since this dashboard does not include warnings for the top four dials, I am going to include one. To do this the symbols above the dials in my design will light up when those warnings are needed. For the digital panels, I do not want to change much. I do not use most of the panels, but I can see where they could be useful to others. I am going to include the compass and outside temp on the bottom of the interface. the top panel displays the gauge information, but only the engine temp. I will move this into the truck app section. I am also going to include a panel for navigation that will be intereacted with using voice commands.
+
+![Image of Main Dash](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Main%20Dash.jpg)
+
+![Image of panels](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Panels.jpg)
