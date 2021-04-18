@@ -54,7 +54,7 @@ Second picture is from here - https://www.youtube.com/watch?v=2SOMh81G7uA
 
 
 Unknown Car
-[Image from Unknown Car](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Unknown%20car.jpg)
+[Image from Unknown Car](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Unknown%20car.png)
 
   This car has three main dial sections. The far left dial section has a dial for fuel level, the engine tempature, and an indactor of the driving mode. The middle section has the speedometer, a display of the total miles and the miles on the trip, and a display for the outside temp. The far right dial contains the tachometer and most of the cars warning lights. The dark black sections most likely contain the light used in operation of the car, like the blinkers signal lights. There is a button on the bottom to reset the trip milage.
   
