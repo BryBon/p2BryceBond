@@ -32,7 +32,7 @@ dashboard found here - https://www.youtube.com/watch?v=7Ar7KMAv6FY
 
 ![Image of car running](https://raw.githubusercontent.com/BryBon/p2BryceBond/main/Explorer%20running.png)
 
-This dash is for a 2019 ford explorer. This dash has two lcd screens to the side of the speedometer. The one the left shows several screens for different features, with the main one showing the distance to empty of the tank as well as a visual representation of the amount of fuel in the tank. This screen can also be used to show fuel economy, trip 1 and 2 information, driver assist and other settings. The right lcd shows the navigation panel, as well the option to see entertainment settings and the phone connection. This screen also shows outside temperature, the compass direction, and the current time. Both screens are interacted with by using a directional pad in the steering wheel, one for the for each side. The speedometer shows both MPH and KM/h. Below this the current driving mode is shown. Located below the left lcd screen are the lights for the front and back fog lamps and ABS. The speedometer had the directional blinker lights and the light for high beams. The right side has the lights for parking brake, an electric parking brake fault light, airbag, seatbelt, and traction control light at the bottom with tire pressure warning light at the top.
+This dash is for a 2019 ford explorer. This dash has two lcd screens to the side of the speedometer. The one the left shows several screens for different features, with the main one showing the distance to empty of the tank as well as a visual representation of the amount of fuel in the tank. This screen can also be used to show fuel economy, trip 1 and 2 information, driver assist and other settings. The right lcd shows the navigation panel, as well the option to see entertainment settings and the phone connection. This screen also shows outside temperature, the compass direction, and the current time. Both screens are interacted with by using a directional pad in the steering wheel, one for the for each side. The speedometer shows both MPH and KM/h. Below this the current driving mode is shown. Located below the left lcd screen are the lights for the front and back fog lamps and ABS. The speedometer had the directional blinker lights and the light for high beams. The right side has the lights for parking brake, an electric parking brake fault light, airbag, seatbelt, and traction control light at the bottom with tire pressure warning light at the top. The brightness can be changed from the setting menu.
 
 Pros
 - There are a lot of option that allow the user to customize their car to how they desire
@@ -69,7 +69,16 @@ Second picture is from here - https://www.youtube.com/watch?v=2SOMh81G7uA
 Cons
 - very simple, missing most modern day features like gas miliage
 - the driving mode indacter should be moved to a more central spot
+- there does not seem to be a way to change the brightness of the backlighting 
 
 Picture is from here -https://knowhow.napaonline.com/know-your-dashboard-lights-and-gauges-infographic/
 
 
+### 2011 Ford F150
+
+![Image from my truck]()
+
+  This dashboard has two main dial section seperated by an lcd panel and four minor dials. The far left dial is the tachometer. Right dial is the speedometer. The top four dial in order are oil pressure, coolant tempature, fuel level, and transmission tempature. Under the tachometer, there are the lights for the abs, the parking brake, the aribag indactor, and low tire pressure. The lights under the speedometer are the seatbelt warning, the check engine light, traction control, and traction control off. The center led panel has the ability to show fuel effencey and miles until empty, engine tempature, the pitch and yaw of the vehicle as well as what drive trains are doing work, and a limited amount of settings. To the upper left and right of the lcd panel are where the blinker lights are shown. Below the panel is where the  drive mode is shown.
+  
+ Pros
+ - Shows the engine temp 
