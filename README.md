@@ -18,3 +18,5 @@ Cons
 - does not have the option to show gas mileage or distance until empty
 - the lights are crowded and could be spaced out better
 - I would prefer if the fuel display were near the top, since having it there would reduce the amount time someone’s eyes are off the road
+
+dashboard found here - https://www.youtube.com/watch?v=7Ar7KMAv6FY
